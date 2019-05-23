@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - rightGoal
+  - leftGoal
+  - lossGoal
+  - blueGem
+  - music
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Game Background
+  - Game Layer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - TextUI
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Mountains
+    uniqueID: 3459352305
+    locked: 0
+  - name: Trees
+    uniqueID: 2566341011
+    locked: 0
+  - name: Clouds
+    uniqueID: 3095143817
+    locked: 0
+  - name: GameObjectLayer
+    uniqueID: 3741446617
+    locked: 0
+  - name: Header
+    uniqueID: 3176227605
+    locked: 0
+  - name: Panel
+    uniqueID: 604150733
+    locked: 0

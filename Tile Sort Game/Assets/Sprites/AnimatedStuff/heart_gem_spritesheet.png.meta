@@ -1,0 +1,1253 @@
+fileFormatVersion: 2
+guid: 81909135c8f784101a80b0651905f2b5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4955819634065668344
+    second: heart_gem_spritesheet_0
+  - first:
+      213: 8835476589506495474
+    second: heart_gem_spritesheet_1
+  - first:
+      213: -1531251621880977548
+    second: heart_gem_spritesheet_2
+  - first:
+      213: 4982950282362229277
+    second: heart_gem_spritesheet_3
+  - first:
+      213: 7116948279275253480
+    second: heart_gem_spritesheet_4
+  - first:
+      213: -6730046728735757796
+    second: heart_gem_spritesheet_5
+  - first:
+      213: 72749567134395296
+    second: heart_gem_spritesheet_6
+  - first:
+      213: 4800598544516592754
+    second: heart_gem_spritesheet_7
+  - first:
+      213: -185289580119329255
+    second: heart_gem_spritesheet_8
+  - first:
+      213: -1976483189666474112
+    second: heart_gem_spritesheet_9
+  - first:
+      213: -7196339119516262520
+    second: heart_gem_spritesheet_10
+  - first:
+      213: 3889244318926125619
+    second: heart_gem_spritesheet_11
+  - first:
+      213: -6649575462419463043
+    second: heart_gem_spritesheet_12
+  - first:
+      213: 478765040731663241
+    second: heart_gem_spritesheet_13
+  - first:
+      213: -4758018850018441040
+    second: heart_gem_spritesheet_14
+  - first:
+      213: -2945722714393356121
+    second: heart_gem_spritesheet_15
+  - first:
+      213: -805355337639829434
+    second: heart_gem_spritesheet_16
+  - first:
+      213: 1769343457438653064
+    second: heart_gem_spritesheet_17
+  - first:
+      213: 2464529662679527968
+    second: heart_gem_spritesheet_18
+  - first:
+      213: 4805630561577462821
+    second: heart_gem_spritesheet_19
+  - first:
+      213: -6046894975631368373
+    second: heart_gem_spritesheet_20
+  - first:
+      213: 6342480451067350318
+    second: heart_gem_spritesheet_21
+  - first:
+      213: 4855974333849294492
+    second: heart_gem_spritesheet_22
+  - first:
+      213: 6136834650992234234
+    second: heart_gem_spritesheet_23
+  - first:
+      213: -3781567041846773216
+    second: heart_gem_spritesheet_24
+  - first:
+      213: 8647673915969054173
+    second: heart_gem_spritesheet_25
+  - first:
+      213: 1142075178921749491
+    second: heart_gem_spritesheet_26
+  - first:
+      213: -6161841530909808306
+    second: heart_gem_spritesheet_27
+  - first:
+      213: -4490198790368719132
+    second: heart_gem_spritesheet_28
+  - first:
+      213: -1861475420433459498
+    second: heart_gem_spritesheet_29
+  - first:
+      213: 1041180132573464641
+    second: heart_gem_spritesheet_30
+  - first:
+      213: -5817078905184111979
+    second: heart_gem_spritesheet_31
+  - first:
+      213: -6467650273143663201
+    second: heart_gem_spritesheet_32
+  - first:
+      213: -3224200055812438798
+    second: heart_gem_spritesheet_33
+  - first:
+      213: 1957290978947302519
+    second: heart_gem_spritesheet_34
+  - first:
+      213: 8065223291934080613
+    second: heart_gem_spritesheet_35
+  - first:
+      213: 8981448026508333917
+    second: heart_gem_spritesheet_36
+  - first:
+      213: -1622871216399759131
+    second: heart_gem_spritesheet_37
+  - first:
+      213: 2868923111217149927
+    second: heart_gem_spritesheet_38
+  - first:
+      213: 1199649512021344155
+    second: heart_gem_spritesheet_39
+  - first:
+      213: -2680799945043302401
+    second: heart_gem_spritesheet_40
+  - first:
+      213: 6623838972295892999
+    second: heart_gem_spritesheet_41
+  - first:
+      213: 22158930980494151
+    second: heart_gem_spritesheet_42
+  - first:
+      213: -8829537107770759800
+    second: heart_gem_spritesheet_43
+  - first:
+      213: -4402985073438673575
+    second: heart_gem_spritesheet_44
+  - first:
+      213: 4173921949444204479
+    second: heart_gem_spritesheet_45
+  - first:
+      213: -2479364890539879678
+    second: heart_gem_spritesheet_46
+  - first:
+      213: 839092672401285603
+    second: heart_gem_spritesheet_47
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: heart_gem_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 4734
+        width: 258
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8a633335bd1467ab0185aaa532736b
+      internalID: -4955819634065668344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart_gem_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 4731
+        width: 263
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1014ed030d94c388df39c8dec56b76
+      internalID: 8835476589506495474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart_gem_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 4734
+        width: 263
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7342b4273b8749e09954e2882412a12
+      internalID: -1531251621880977548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart_gem_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 4739
+        width: 257
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abed4361d4d6e446f9180c0d1f697506
+      internalID: 4982950282362229277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart_gem_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 2194
+        y: 4744
+        width: 257
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32acff8e358c41abba734f1e739674a
+      internalID: 7116948279275253480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart_gem_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 4241
+        width: 250
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d3d264fef9d4a858be17ee79e21517
+      internalID: -6730046728735757796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart_gem_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 4249
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68d13394b42e44fda33a4bb656fd541
+      internalID: 72749567134395296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart_gem_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 4254
+        width: 260
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610e57a52afb848f0bc3ecbf30dfceea
+      internalID: 4800598544516592754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart_gem_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 4256
+        width: 263
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6669a8e79f2dd4b2a99709e190f4007f
+      internalID: -185289580119329255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart_gem_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 2174
+        y: 4254
+        width: 265
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20fcf7ef4d674a568235efeebbe2daf
+      internalID: -1976483189666474112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart_gem_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 3739
+        width: 265
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092e39005bf564859b8f7c11158516ff
+      internalID: -7196339119516262520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart_gem_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 3731
+        width: 257
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4db85c678b241d79e803a9caf17e7e
+      internalID: 3889244318926125619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart_gem_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 3729
+        width: 247
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62329000e0d294ee88ba05e85fa355d5
+      internalID: -6649575462419463043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart_gem_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 3721
+        width: 257
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969ba59a0e94c48359a8cfa9c12a196c
+      internalID: 478765040731663241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart_gem_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 3716
+        width: 262
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d25741671954d1385580058f633b0c
+      internalID: -4758018850018441040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart_gem_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 3204
+        width: 263
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520a8d090ae374831ab63333d0964967
+      internalID: -2945722714393356121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart_gem_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 3199
+        width: 260
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9fa5d14c1e0a4526a79cfca977e7f4e
+      internalID: -805355337639829434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart_gem_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 3199
+        width: 255
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f71b4fbbcbe24980b6b2efa74e02115
+      internalID: 1769343457438653064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart_gem_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 3199
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47e3f755e14d40229c8ed9645a4f8bf
+      internalID: 2464529662679527968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart_gem_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 3201
+        width: 250
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ebdba112ddb14cfc9a53a3a3b567b87
+      internalID: 4805630561577462821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart_gem_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 2691
+        width: 253
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff90dfcc99ad449abf1119e01683d0b
+      internalID: -6046894975631368373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart_gem_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 2699
+        width: 253
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae9b71a56bed48f09bae5ab87f19079
+      internalID: 6342480451067350318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart_gem_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 2706
+        width: 260
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3457a21576a8d404ea5b128bc35ded2b
+      internalID: 4855974333849294492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart_gem_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 2716
+        width: 260
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f269c45d541449378d90d457b45fbcf
+      internalID: 6136834650992234234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart_gem_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 2181
+        y: 2726
+        width: 260
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dbad6599a031457c9a06dfefe86f253
+      internalID: -3781567041846773216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart_gem_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 2206
+        width: 263
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f015777ae4f94797952b4419642e912
+      internalID: 8647673915969054173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart_gem_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 2199
+        width: 263
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a202ae4773774d8fbdcb46a24df50c9
+      internalID: 1142075178921749491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart_gem_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 2194
+        width: 260
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6cdea5ee4fd4b7c945fd56593bdb48
+      internalID: -6161841530909808306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart_gem_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 2191
+        width: 258
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6999706653c4d440892f44c61ec7da74
+      internalID: -4490198790368719132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart_gem_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 2189
+        width: 247
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be7c47c5cf4e446aa06cd68fb52757a
+      internalID: -1861475420433459498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart_gem_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1671
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de6e49f2d17f4d088c2635d921d4162
+      internalID: 1041180132573464641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart_gem_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1664
+        width: 258
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002e300b28f934eb2a0ef8d380e64d85
+      internalID: -5817078905184111979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart_gem_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 1661
+        width: 265
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ead9758870c475297eb31bcd3cd92f
+      internalID: -6467650273143663201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart_gem_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1661
+        width: 265
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01afd9c1059ff40f690a24e884d811bd
+      internalID: -3224200055812438798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart_gem_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 1664
+        width: 262
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5574d2a089bf4d23a5e3169ee89436d
+      internalID: 1957290978947302519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart_gem_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1156
+        width: 258
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28de75dd9f2304fb486267448f21b432
+      internalID: 8065223291934080613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart_gem_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1161
+        width: 250
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad5f664010ca4f2b88115d00dfd023d
+      internalID: 8981448026508333917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart_gem_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 1164
+        width: 258
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfff43420b39a415098c4f909aacf46f
+      internalID: -1622871216399759131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart_gem_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 1166
+        width: 263
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405f1161bece94bcb851de61395e30c0
+      internalID: 2868923111217149927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart_gem_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 1171
+        width: 262
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afaeb4a5b294a4cea9fce21d37494179
+      internalID: 1199649512021344155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart_gem_spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 669
+        width: 260
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40028223e1985457f9db827a73b654c0
+      internalID: -2680799945043302401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart_gem_spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 676
+        width: 255
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37cc833830d684f79af33afabf3fb9f8
+      internalID: 6623838972295892999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart_gem_spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 676
+        width: 250
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d7a2ec6cf6945c0bdac4e65ab66764
+      internalID: 22158930980494151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart_gem_spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 664
+        width: 252
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712a23b93134c4ec39daa16fc4ae1d8c
+      internalID: -8829537107770759800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart_gem_spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 656
+        width: 252
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb1e399612bf4c9294ab2b309522c63
+      internalID: -4402985073438673575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart_gem_spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 136
+        width: 253
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29d463ddb9814dfd9d17fb9b9e65e00
+      internalID: 4173921949444204479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart_gem_spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 131
+        width: 257
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7355bd4736343588e717e88006fefe
+      internalID: -2479364890539879678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart_gem_spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 126
+        width: 260
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6832053c4fd9b4340b681588653f3d3d
+      internalID: 839092672401285603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5c25d1d2f416b48a9a007b0153a4ca13
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
